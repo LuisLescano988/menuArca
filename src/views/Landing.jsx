@@ -14,7 +14,7 @@ const Home = () => {
       <img src={header2} />
       <div className=' flex flex-col'>
         <button className=' bg-black'>
-          <NavLink to={'/spanish'}>
+          <NavLink to={'/spanish'}>.
             <img src={espanol} />
           </NavLink>
         </button>
